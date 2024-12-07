@@ -1,1 +1,4 @@
 '[FBAN/FB4A;FBAV/415.0.0.16438;FBBV/68786345;FBDM={density=1.5,width=720,height=1208};FBLC/en_US;FBRV/68786345;FBCR/Hot_mobile;FBMF/Sony;FBBD/Sony;FBPN/com.facebook.mlite;FBDV/D2502;FBSV/5.1.1;nullFBCA/armeabi-v7a:armeabi;]'
+'[FBAN/FB4A;FBAV/154.0.0.48409;FBBV/740334305;FBDM={density=1.5,width=720,height=1208};FBLC/en_US;FBRV/740334305;FBCR/Hot_mobile;FBMF/Sony;FBBD/Sony;FBPN/com.facebook.orca;FBDV/D2502;FBSV/5.1.1;nullFBCA/armeabi-v7a:armeabi;]'
+'[FBAN/FB4A;FBAV/138.0.0.44214;FBBV/12019279;FBDM={density=1.5,width=720,height=1208};FBLC/en_US;FBRV/12019279;FBCR/Hot_mobile;FBMF/Sony;FBBD/Sony;FBPN/com.facebook.lite;FBDV/D2502;FBSV/5.1.1;nullFBCA/armeabi-v7a:armeabi;]'
+'[FBAN/FB4A;FBAV/488.0.0.10121;FBBV/262657883;FBDM={density=1.5,width=720,height=1208};FBLC/en_US;FBRV/262657883;FBCR/Hot_mobile;FBMF/Sony;FBBD/Sony;FBPN/com.facebook.lite;FBDV/D2502;FBSV/5.1.1;nullFBCA/armeabi-v7a:armeabi;]'
