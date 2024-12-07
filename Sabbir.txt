@@ -1,1 +1,1 @@
-Sabbir.txt
+'[FBAN/FB4A;FBAV/415.0.0.16438;FBBV/68786345;FBDM={density=1.5,width=720,height=1208};FBLC/en_US;FBRV/68786345;FBCR/Hot_mobile;FBMF/Sony;FBBD/Sony;FBPN/com.facebook.mlite;FBDV/D2502;FBSV/5.1.1;nullFBCA/armeabi-v7a:armeabi;]'
